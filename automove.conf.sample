@@ -1,0 +1,13 @@
+# automove.conf Sample
+
+# AI config
+# OPENAI_BASE_URL="https://api.openai.com/v1"
+# OPENAI_MODEL="gpt-4o-mini"  # Optional, defaults to gpt-4o-mini if not specified
+OPENAI_API_KEY="Your OpenAI API Key"
+
+# Target folder (required)
+TARGET_FOLDER="/path/to/target/folder"
+
+# Target user and group (optional, defaults to target folder's user and group if not specified)
+# TARGET_USER="admin"
+# TARGET_GROUP="Users"
